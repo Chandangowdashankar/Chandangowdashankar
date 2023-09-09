@@ -4,18 +4,6 @@
   <br>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandangowdahs&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangowdahs&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img align="right" src="https://i.imgflip.com/65efzo.gif" height="200" alt="Coding GIF">
-</div>
-
 ### 🛠️ Skills
 
 - **Continuous Integration/Continuous Deployment (CI/CD)**
