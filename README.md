@@ -9,9 +9,9 @@
 - **Continuous Integration/Continuous Deployment (CI/CD)**
 - **Containerization (Docker, Kubernetes)**
 - **Infrastructure as Code (Terraform, Ansible)**
-- **Cloud Computing (AWS, Azure, GCP)**
-- **Monitoring and Logging (Prometheus, Grafana, ELK stack)**
-- **Scripting and Automation (Bash, Python, PowerShell)**
+- **Cloud Computing (AWS)**
+- **Monitoring and Logging (Prometheus, Grafana)**
+- **Scripting and Automation (Bash, PowerShell)**
 - **Version Control (Git)**
 - **Security Best Practices**
 
@@ -28,15 +28,14 @@
 
 ### 📜 Certifications
 
-- AWS Certified DevOps Engineer
-- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect – Associate 
 
 ### 📫 Contact
 
 Feel free to connect with me:
 
-- Email: chandangowda@example.com
-- LinkedIn: [Chandan Gowda H S](https://www.linkedin.com/in/chandangowdahs/)
-- GitHub: [GitHub Profile](https://github.com/chandangowdahs)
+- Email: chandanshankar1999@gmail.com
+- LinkedIn: [Chandan Gowda H S](www.linkedin.com/in/chandan-gowda-h-s-a574431a1)
+- GitHub: [GitHub Profile](https://github.com/Chandangowdashankar)
 
 Let's collaborate and enhance the DevOps practices for your projects!
