@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Chandan Gowda H S</h1>
-  <p>DevOps Engineer from India</p>
+  <p>Container Cloud Support Engineer</p>
   <br>
 </div>
 
@@ -8,23 +8,10 @@
 
 - **Continuous Integration/Continuous Deployment (CI/CD)**
 - **Containerization (Docker, Kubernetes)**
-- **Infrastructure as Code (Terraform, Ansible)**
 - **Cloud Computing (AWS)**
 - **Monitoring and Logging (Prometheus, Grafana)**
-- **Scripting and Automation (Bash, PowerShell)**
 - **Version Control (Git)**
 - **Security Best Practices**
-
-### 💼 Projects
-
-1. **CI/CD Pipeline Automation**
-   - Designed and implemented CI/CD pipelines for automated testing and deployment using Jenkins.
-   
-2. **Kubernetes Cluster Orchestration**
-   - Managed and scaled Kubernetes clusters, automating microservices deployment with Helm charts.
-
-3. **Infrastructure as Code (IaC) with Terraform**
-   - Created infrastructure on multiple cloud providers with Terraform, ensuring reproducibility.
 
 ### 📜 Certifications
 
